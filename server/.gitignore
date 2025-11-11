@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+.nyc_output/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional npm cache
+.cache/
+
+# Temporary files
+*.tgz
+
+# Redis dump (if present)
+dump.rdb
+
+# Mac-specific
+*.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Yarn integrity
+.yarn-integrity
+
+# Lockfiles (uncomment to ignore lockfiles if needed)
+# package-lock.json
+# yarn.lock
